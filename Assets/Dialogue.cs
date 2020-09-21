@@ -17,3 +17,5 @@ public class Dialogue : ScriptableObject
     public string[] dialogues;
     public Responses[] responseOptions;
 }
+
+//hatdog
