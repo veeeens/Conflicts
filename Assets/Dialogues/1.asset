@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b07c52cd5ce9f4a8b70436ae3bbb6b, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 4ccb15404d15a654ab9e1e60b8b920f5, type: 2}
+  speakerRight: {fileID: 11400000, guid: c806164d025778445ba310b215baed51, type: 2}
+  dialogues:
+  - Honey, nakapasok ako sa in-apply-an kong trabaho!
+  - Galing ah. Saan ka na magtatrabaho?
+  - Investigator ako sa malapit na police headquarters.
+  - Oh, magkano binabayad sayo diyan?
+  responseOptions: []
+  continueDialogue: {fileID: 11400000, guid: 7196342c7c6b9a3418db56226629a46e, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b07c52cd5ce9f4a8b70436ae3bbb6b, type: 3}
+  m_Name: 1 part 2
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 4ccb15404d15a654ab9e1e60b8b920f5, type: 2}
+  speakerRight: {fileID: 11400000, guid: 7b3695961748a9245a5bb1e1eaf0eff3, type: 2}
+  dialogues:
+  - Sapat na siguro sa mga pangangailangan ng pamilya natin.
+  - 'Ano ginagawa mo sa trabaho mo, Dad? Naririnig ko na ginagamit daw ng gobyerno
+    yung mga pulis para sa mga iligal na bagay. '
+  - 'Ah, hindi naman ata ako bibigyan ng ganung klaseng trabaho. '
+  - 'Pinagusapan ng mga professor ko yung mga pangungurakot ng gobyerno at sabi nila
+    na ginagamit daw nila yung mga PPK para patahimikin yung mga lumalaban sa kanila. '
+  responseOptions: []
+  continueDialogue: {fileID: 11400000, guid: 13b0587ae1dd46b4cac9ee9addb2d76b, type: 2}
